@@ -16,7 +16,7 @@ This repository contains a collection of 13 data analysis projects that I have c
 7. **Project 7**: [Title of Project 7]
 8. **Project 8**: [Title of Project 8]
 9. **Project 9**: [Title of Project 9]
-10. **Project 10**: [Analyzing User Behavior and Sales Funnel Optimization through A]
+10. **Project 10**: [Analyzing User Behavior and Sales Funnel Optimization through AAB Testing in a Food Product Startup]
 11. **Project 11**: [Analysis of YouTube Video Ads for Global Marketing]
 12. **Project 12**: [Optimizing Model Fitness Customer Retention with K-Means]
 13. **Project 13**: [Identifying Inefficient Operators in Telecommunications]
